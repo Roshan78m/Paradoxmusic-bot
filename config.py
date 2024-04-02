@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","iam_daxx")
+OWNER_USERNAME = getenv("OWNER_USERNAME","SPY_RADIOS")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "PARADOX_MUSICS_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Nexiko")
+BOT_NAME = getenv("BOT_NAME" , "𝐏𝐀𝐑𝐀𝐃𝐎𝐗 × 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Paradox_music_bot_audio")
 # ---------------------------------------------------------
 
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ALLTYPECC")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DAXXSUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PARADOX_BOTS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PARADOX_ANIME_GANG")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
